@@ -1,0 +1,33 @@
+// grid nuestros productos
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+  }
+  
+  .grid-item {
+    text-align: center;
+  }
+  
+  .grid-item img {
+    max-width: 50%;
+  }
+  
+  .grid-item h3 {
+    margin-top: 10px;
+    font-size: 20px;
+  }
+  
+  .grid-item p { 
+    margin-top: 5px;
+    font-size: 16px;
+  }
+  
+
+  
+  .imagen-productos{
+    height: 600px;
+  }
+  
+ 

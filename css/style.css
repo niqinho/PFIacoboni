@@ -1,0 +1,92 @@
+.alto-100 {
+  min-height: 100vh; }
+
+.navbar-brand {
+  color: #0dcb40 !important; }
+
+.navbar-brand img {
+  width: 30px; }
+
+.navbar-brand img:hover {
+  transform: scale(120%); }
+
+.nav-link {
+  color: #0dcb40 !important;
+  transition: ease 0.60s; }
+
+.nav-link:hover {
+  transform: scale(120%); }
+
+.nav * {
+  color: #22d219;
+  line-height: 20px; }
+
+.nav {
+  height: 60px;
+  line-height: 60px;
+  padding: 10px; }
+
+footer {
+  background-color: #14311a;
+  color: #fff;
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+  padding: 20px; }
+
+.portada {
+  color: #6cdf7c;
+  height: 100vh; }
+
+.portada .textoinicial {
+  margin: 0 auto;
+  width: 40vw; }
+
+.contenedor {
+  text-align: center; }
+
+.imagen_nosotros:hover {
+  transform: scale(120%); }
+
+.imagen_nosotros {
+  transition: ease 0.60s; }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px; }
+
+.grid-item {
+  text-align: center; }
+
+.grid-item img {
+  max-width: 50%; }
+
+.grid-item h3 {
+  margin-top: 10px;
+  font-size: 20px; }
+
+.grid-item p {
+  margin-top: 5px;
+  font-size: 16px; }
+
+.imagen-productos {
+  height: 600px; }
+
+.datos h3 {
+  color: #120d23; }
+
+.datos p {
+  color: #6a1754;
+  font-size: 15px; }
+
+.imagen_nosotros:hover {
+  transform: scale(120%); }
+
+.imagen_nosotros {
+  transition: ease 0.60s; }
+
+body {
+  margin: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background: linear-gradient(8deg, #a3db00 27%, #529539 57%, #154a14 97%); }

@@ -1,0 +1,24 @@
+.portada{
+    color: rgb(108, 223, 124);
+    height: 100vh;
+}
+
+.portada .textoinicial{
+margin: 0 auto;
+width: 40vw;
+}
+
+
+
+.contenedor {
+    text-align: center;
+  } 
+
+  .imagen_nosotros:hover{
+    transform:scale(120%);
+  }
+
+ .imagen_nosotros{
+    transition: ease 0.60s;
+ }
+
